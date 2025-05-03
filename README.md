@@ -33,7 +33,7 @@ cd orderservice
 php -S localhost:8003
 ```
 
-2. Uji dengan Postman atau browser:
+2. Uji dengan Postman / browser / ThunderClient:
 
 - `GET http://localhost:8001/user.php` → Data user
 - `GET http://localhost:8002/product.php` → Data produk
